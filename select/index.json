@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "フロリジナル - OFF Vocal / Mrs. GREEN APPLE",
+  "base_artist": "sakanova",
+  "createdAt": "2025-12-01T10:22:23.560524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フロリジナル - ~The White Lounge Version~ / Live",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_フロリジナル_-_~The_White_Lounge_Version~___Live_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フロリジナル (~The White Lounge Version~ / Live) - Froliginal (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_フロリジナル_(~The_White_Lounge_Version~___Live)_-_Froliginal_(~The_White_Lounge_Versi_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フロリジナル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_フロリジナル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "フロリジナル(The White Lounge Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_02_フロリジナル(The_White_Lounge_Version)_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "フロリジナル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_03_フロリジナル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "フロリジナル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_04_フロリジナル_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
